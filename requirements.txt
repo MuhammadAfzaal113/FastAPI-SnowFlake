@@ -1,0 +1,3 @@
+fastapi==0.115.5
+uvicorn==0.32.0
+snowflake-connector-python==3.12.3
