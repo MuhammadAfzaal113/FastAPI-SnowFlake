@@ -9,8 +9,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/MuhammadAfzaal113/FastAPI-SnowFlake.git
+   cd FastAPI-SnowFlake
    ```
 
 2. Install dependencies:
